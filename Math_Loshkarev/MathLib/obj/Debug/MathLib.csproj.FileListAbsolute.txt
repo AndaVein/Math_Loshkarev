@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\MathLib-Kotov_Maxim_41P\MathLib-Kotov_Maxim_41P\MathLib\bin\Debug\MathLib.dll
+C:\Users\User\Desktop\MathLib-Kotov_Maxim_41P\MathLib-Kotov_Maxim_41P\MathLib\bin\Debug\MathLib.pdb
+C:\Users\User\Desktop\MathLib-Kotov_Maxim_41P\MathLib-Kotov_Maxim_41P\MathLib\obj\Debug\MathLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MathLib-Kotov_Maxim_41P\MathLib-Kotov_Maxim_41P\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MathLib-Kotov_Maxim_41P\MathLib-Kotov_Maxim_41P\MathLib\obj\Debug\MathLib.dll
+C:\Users\User\Desktop\MathLib-Kotov_Maxim_41P\MathLib-Kotov_Maxim_41P\MathLib\obj\Debug\MathLib.pdb
+C:\Users\User\Desktop\Math_Loshkarev\MathLib\bin\Debug\MathLib.dll
+C:\Users\User\Desktop\Math_Loshkarev\MathLib\bin\Debug\MathLib.pdb
+C:\Users\User\Desktop\Math_Loshkarev\MathLib\obj\Debug\MathLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Math_Loshkarev\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Math_Loshkarev\MathLib\obj\Debug\MathLib.dll
+C:\Users\User\Desktop\Math_Loshkarev\MathLib\obj\Debug\MathLib.pdb
